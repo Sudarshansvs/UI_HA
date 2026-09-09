@@ -29,3 +29,6 @@ dist/
 
 ## Logs
 *.log
+
+## Local dev runtime (native Postgres/Redis/MinIO binaries, not source)
+.local/
